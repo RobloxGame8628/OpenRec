@@ -12,7 +12,7 @@ namespace start
 		public static void setup()
 		{
 			//sets up all the important files so openrec doesnt crash like lame vaultserver xD
-			Console.WriteLine("Setting up... (May take a minute to download everything.)");
+			Console.WriteLine("Setting up... (May take a minute to brick OpenRec.)");
 			Directory.CreateDirectory("SaveData\\App\\");
 			Directory.CreateDirectory("SaveData\\Profile\\");
 			Directory.CreateDirectory("SaveData\\Images\\");
